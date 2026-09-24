@@ -1,1 +1,1 @@
-# mind-creative-coding-foundation-lesson
+# maind-creative-coding-foundation-lesson
