@@ -6,4 +6,4 @@ This repository contains
 The topics are:
 - HTML
 - CSS
-- -JS
+- JS
